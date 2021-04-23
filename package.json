@@ -1,6 +1,6 @@
 {
   "name": "@jkhy/sourcemap-bundle-analyzer",
-  "version": "0",
+  "version": "1.0.0",
   "description": "Analyze JS build bundles using source maps",
   "main": "index.js",
   "bin": "index.js",
