@@ -11,7 +11,7 @@ Automatically starts a local server to visualize the files.
 If no files are specified, the entire directory is read and any JS files are shown.
 Files may be partial string matches: "foo" will match "foo-9ae8742.js"
 
-**Flags:**
-  --dir path to the output folder where the js files and sourcemaps are located
-  --help print usage information
-  --version print version data
+### Flags:
+  --dir path to the output folder where the js files and sourcemaps are located  
+  --help print usage information  
+  --version print version data  
