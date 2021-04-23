@@ -2,9 +2,9 @@
   "name": "@jkhy/sourcemap-bundle-analyzer",
   "version": "1.0.0",
   "description": "Analyze JS build bundles using source maps",
-  "main": "index.js",
+  "main": "index.mjs",
   "bin": {
-    "sourcemap-bundle-analyzer": "./index.js"
+    "sourcemap-bundle-analyzer": "./index.mjs"
   },
   "type": "module",
   "repository": "git@github.com:banno/sourcemap-bundle-analyzer",
