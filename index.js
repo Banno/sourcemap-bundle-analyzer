@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import * as acorn from 'acorn';
 import fs from 'fs/promises';
 import path from 'path';
